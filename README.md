@@ -1,21 +1,22 @@
 # Nova
-Nova is a simple client for remote windows PC control.
-It support system command,mouse event and keyboard type.
+Nova is a simple client for control remote windows PC by command.
+It support system command,mouse event and keyboard input.
 
 
 
-sample of sender:
+Samples of command send to Nova:
 
-Nova('131.101.156.125','dir c:\\').SendMessage()
+Nova('127.0.0.1','ipconfig').SendMessage() #excute command 'ipconfig'
 
-Nova('131.101.156.125','ipconfig ').SendMessage()
+Nova('127.0.0.1','notepad no wait').SendMessage() #open notepad without wait
 
-Nova('131.101.156.125','notepad no wait').SendMessage()
+Nova('127.0.0.1','notepad wait').SendMessage() #open notepad and wait
 
-Nova('131.101.156.125','whoami').SendMessage()
+Nova('127.0.0.1','rc 100,100,2').SendMessage() #right click 2 times at 100,100
 
-Nova('131.101.156.125','rc 417,627,1').SendMessage()
+Nova('127.0.0.1','lc 200,100,1').SendMessage() #left click 1 time at 200,100
 
-Nova('131.101.156.125','kb 288,1677,72|69|76|76|79|32|87|79|82|76|68').SendMessage()
+Nova('127.0.0.1','kb 720,1046,72|69|76|76|79|32|87|79|82|76|68').SendMessage() #send keyboard 'hello word' at 720,1046 
 
-Nova('131.101.156.125','kb 288,1677,+72|69-|76|76|79|32|87|79|82|+76|68-').SendMessage()
+Nova('127.0.0.1','kb 720,1046,+72|69|76|76|79-|32|87|79|82|76|68').SendMessage() #send keyboard 'HELLO word' at 720,1046 
+
