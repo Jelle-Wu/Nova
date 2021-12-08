@@ -1,5 +1,8 @@
 # Nova
 Nova is a simple client for remote windows PC control.
+It support system command,mouse event and keyboard type.
+
+
 
 sample of sender:
 
