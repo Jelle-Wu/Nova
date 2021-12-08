@@ -1,0 +1,12 @@
+C:\Tools\Nova\NovaRegister\bin\x86\Debug\NovaRegister.exe
+C:\Tools\Nova\NovaRegister\bin\x86\Debug\NovaRegister.pdb
+C:\Tools\Nova\NovaRegister\bin\x86\Debug\NovaRegister.xml
+C:\Tools\Nova\NovaRegister\obj\x86\Debug\NovaRegister.Resources.resources
+C:\Tools\Nova\NovaRegister\obj\x86\Debug\NovaRegister.NovaRegister.resources
+C:\Tools\Nova\NovaRegister\obj\x86\Debug\NovaRegister.vbproj.GenerateResource.Cache
+C:\Tools\Nova\NovaRegister\obj\x86\Debug\NovaRegister.exe
+C:\Tools\Nova\NovaRegister\obj\x86\Debug\NovaRegister.xml
+C:\Tools\Nova\NovaRegister\obj\x86\Debug\NovaRegister.pdb
+C:\Tools\Nova\NovaRegister\bin\x86\Debug\NovaRegister.exe.config
+C:\Tools\Nova\NovaRegister\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Tools\Nova\NovaRegister\bin\x86\Debug\Newtonsoft.Json.xml

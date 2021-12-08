@@ -1,0 +1,14 @@
+C:\Tools\Nova\Nova\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Tools\Nova\Nova\obj\x86\Debug\Nova.vbproj.ResolveComReference.cache
+C:\Tools\Nova\Nova\bin\x86\Debug\Nova.exe
+C:\Tools\Nova\Nova\bin\x86\Debug\Nova.pdb
+C:\Tools\Nova\Nova\bin\x86\Debug\Nova.xml
+C:\Tools\Nova\Nova\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Tools\Nova\Nova\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Tools\Nova\Nova\obj\x86\Debug\Nova.Resources.resources
+C:\Tools\Nova\Nova\obj\x86\Debug\Nova.Nova_Form.resources
+C:\Tools\Nova\Nova\obj\x86\Debug\Nova.vbproj.GenerateResource.Cache
+C:\Tools\Nova\Nova\obj\x86\Debug\Nova.exe
+C:\Tools\Nova\Nova\obj\x86\Debug\Nova.xml
+C:\Tools\Nova\Nova\obj\x86\Debug\Nova.pdb
+C:\Tools\Nova\Nova\bin\x86\Debug\Nova.exe.config

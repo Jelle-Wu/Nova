@@ -1,0 +1,2 @@
+C:\Tools\Nova\Nova\obj\x64\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Tools\Nova\Nova\obj\x64\Debug\Nova.vbproj.ResolveComReference.cache
